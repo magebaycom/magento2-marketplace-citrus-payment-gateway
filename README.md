@@ -5,15 +5,15 @@
 <h2>Magento 2 Marketplace Citrus&nbsp;Payment Gateway Features</h2>
 
 <ul>
-	<li>Customers have many options to make payments with the Citrus Payment Gateway.<br />
-	Payment split between admin and seller.<br />
-	Payments are transferred directly to the seller&#39;s bank account.<br />
-	Easy to refund.<br />
-	Administrators can choose payment options from their citrus account.<br />
-	Administrators have the option to hold seller payments.<br />
-	Administrators have the option to issue payments.<br />
-	Administrators can reimburse for orders made from citrus payment.<br />
-	Allows sellers to add Citrus payments to their product.</li>
+	<li>Customers have many options to make payments with the Citrus Payment Gateway.</li>
+	<li>Payment split between admin and seller.</li>
+	<li>Payments are transferred directly to the seller&#39;s bank account.</li>
+	<li>Easy to refund.</li>
+	<li>Administrators can choose payment options from their citrus account.</li>
+	<li>Administrators have the option to hold seller payments.</li>
+	<li>Administrators have the option to issue payments.</li>
+	<li>Administrators can reimburse for orders made from citrus payment.</li>
+	<li>Allows sellers to add Citrus payments to their product.</li>
 </ul>
 
 <p><strong>Related Add-ons:&nbsp;<a href="https://github.com/magebaycom/magento2-marketplace-seller-store-pickup/">Magento 2 Marketplace Seller Store Pickup</a></strong></p>
